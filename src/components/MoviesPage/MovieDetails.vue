@@ -32,7 +32,7 @@ onMounted(() => {
 
 <template>
   <div>
-    <h3 align="center" style="font-weight: 700">Movie Details goes here</h3>
+    <h3 style="font-weight: 700" align="center">Movie Details goes here</h3>
     <div>
       <router-link to="/">Back to Movies List</router-link>
     </div>
